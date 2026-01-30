@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cosmos_reasoning"
+  site-url: "https://HasanGoni.github.io/cosmos_reasoning"
+  description: "Cosmos with semiconductor data"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/cosmos_reasoning"
