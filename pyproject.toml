@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastcore>=1.12.11",
+    "ipykernel>=7.1.0",
     "nbdev>=3.0.7",
+    "polars>=1.37.1",
     "torch>=2.10.0",
     "torchaudio>=2.10.0",
     "torchvision>=0.25.0",
